@@ -1,0 +1,148 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    width: 100%;
+}
+.header .logo{
+    background-color: #f3f3f3;
+    height: 100px;
+    padding-left: 280px;
+    padding-top: 3px;
+}
+.menu ul{
+    margin-top: 0;
+    margin-bottom: -24px;
+    margin-right: 300px;
+}
+.menu ul li{
+    float: right;
+    display: inline-block;
+    padding-bottom: 80px;
+    margin-right: 50px;
+    margin-top: -34px;
+
+}.menu ul li a{
+    text-decoration: none;
+    color: black;
+     font-family: 'Roboto', sans-serif;
+ }
+img {
+    vertical-align: middle;
+    margin-top: 20px;
+}
+.banner img{
+    margin-top: -40px;
+    height: 350px;
+    width: 100%;
+    background-size: cover;
+}
+.banner h1, .banner  a{
+    margin-top: -200px;
+    text-align: center;
+    color: white;
+}
+.item{
+    margin-top: 210px;
+}
+.item p{
+    line-height: 23px;
+    text-align: center;
+    margin-top: 13px;
+    font-size: 15px;
+}
+.carousel-inner img{
+    margin-top: -250px;
+}
+.other{
+    margin-bottom: 100px;
+}
+.other1{
+    margin-top: 50px;
+}
+.sr-only{
+    overflow: hidden;
+}
+.container .col-sm-4{
+    padding-left: 20px;
+}
+.h3, h3 {
+    font-size: 24px;
+    text-align: center;
+}
+.h4, h4 {
+    font-size: 18px;
+    padding-top: 50px;
+}
+.h1, h1{
+    text-align: center;
+}
+.container h2{
+    text-align: center;
+    padding-top: 96px;
+    padding-bottom: 30px;
+}
+.col-sm-3 h2{
+    padding-top: 30px;
+    color: #519f10;
+}
+.col-sm-3 h2{
+    font-size: 50px;
+    font-weight: 800;
+    letter-spacing: 0.2px;
+    margin: 0 0 10px;
+    padding: 0 0 15px;
+    position: relative;
+    font-family: inherit;
+}
+.info_2{
+    margin-top: 110px;
+    padding-top: 90px;
+    background-color: rgba(211, 211, 211, 0.5);
+    width: 100%;
+    height: 300px;
+    text-align: center
+}
+.info_1{
+    padding-top: 120px;
+}
+.info_3{
+    padding-top: 30px;
+}
+.info_3 h4{
+    font-family: "Playfair Display",serif;
+    font-size: 20px;
+    font-weight: 400;
+    color: #000;
+    margin: 0;
+}
+.info_3 a{
+    text-decoration: none;
+}
+.row{
+    margin-right: -15px;
+    margin-top: 138px;
+    padding-left: 215px;
+    background-color: rgba(211, 211, 211, 0.5);
+}
+.footer-icon a {
+    color: black;
+    text-decoration: none;
+    padding-left: 7px;
+}
+.footer-titel a{
+    color: black;
+    text-decoration: none;
+}
+.acction{
+    margin-top: -50px;
+}
+.fab {
+    font-family: 'Font Awesome 5 Brands';
+    font-weight: 400;
+    font-size: 25px;
+}
+
+
